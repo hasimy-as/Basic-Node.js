@@ -1,5 +1,5 @@
 {
-  "name": "simple-nodejs",
+  "name": "app-simplenodejs",
   "version": "1.0.0",
   "description": "A simple Node.js Web Application, using EJS as a rendering template.",
   "main": "server.js",
