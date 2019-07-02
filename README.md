@@ -1,4 +1,4 @@
-# app-simplenodeejs
+# Basic Node.js
 A simple Node.JS Web Landing Page, using EJS as a rendering template.
 
 ## Version 1.0.0
